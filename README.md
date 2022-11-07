@@ -10,3 +10,5 @@
 
 [1]: https://www.linkedin.com/in/patriciapereira150
 [2]: https://www.instagram.com/150patriciap
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark)
