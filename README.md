@@ -5,7 +5,7 @@
 <br />Connect and follow me:
 
 [![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][1]
-[![instagram](https://camo.githubusercontent.com/c80f9763ed06d4a…e734076332f69636f6e732f696e7374616772616d2e737667)][2]
+[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2]
 
 
 [1]: https://www.linkedin.com/in/patriciapereira150
