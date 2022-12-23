@@ -2,7 +2,8 @@
 
 <br />I'm a Software Engineering Student at University of Minho and I am currently in my master's degree.
 
-<br />Connect with me on: [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=badge&logo=linkedin&logoColor=white)][1] andf follow me on: [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=badge&logo=instagram&logoColor=white)][2]
+<br />Connect with me on: [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=badge&logo=linkedin&logoColor=white)][1] 
+and follow me on: [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=badge&logo=instagram&logoColor=white)][2]
 
 
 [1]: https://www.linkedin.com/in/patriciapereira150
