@@ -1,6 +1,6 @@
 # HI, I'm Patrícia Gonçalves Pereira
 
-<br />I'm a Software Engineering Student at University of Minho and I am currently in my master's degree.
+<br />I'm a Software Engineering, and I am currently pursuing a master's degree at University of Minho.
 
 <br />Connect with me on: [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=badge&logo=linkedin&logoColor=white)][1] 
 <br>and follow me on: [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=badge&logo=instagram&logoColor=white)][2]
